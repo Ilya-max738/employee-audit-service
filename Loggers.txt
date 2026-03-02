@@ -1,0 +1,396 @@
+[2025-11-05 23:32:16] INFO: User: No info action: createEmployee parameters: Ivan, REGULAR, 3.0, 
+
+[2025-11-05 23:32:16] INFO: User: No info action: employeeInfo parameters: [0, REGULAR, qwerty, 0.0]
+
+
+[2025-11-07 00:06:19] INFO: User: Manager action: createEmployee parameters: Ivan, REGULAR, 12000.0, 
+
+
+[2025-11-08 21:51:00] INFO: User: Manager action: createEmployee parameters: Ivan, REGULAR, 25000.0, 
+
+
+[2025-11-08 22:19:43] INFO: User: Manager action: createEmployee parameters: Ivan, REGULAR, 25000.0, 
+
+
+[2025-11-08 22:22:57] INFO: User: Manager action: createEmployee parameters: Ivan, REGULAR, 25000.0, 
+
+
+[2025-11-08 22:25:15] INFO: User: Manager action: createEmployee parameters: Ivan, REGULAR, 25000.0, 
+
+
+[2025-11-08 22:28:37] INFO: User: Manager action: createEmployee parameters: Ivan, REGULAR, 25000.0, 
+
+
+[2025-11-08 22:31:14] INFO: User: Manager action: createEmployee parameters: Ivan, REGULAR, 25000.0, 
+
+
+[2025-11-08 22:32:27] INFO: User: Manager action: createEmployee parameters: Ivan, REGULAR, 25000.0, 
+
+
+[2025-11-08 22:35:33] INFO: User: Manager action: createEmployee parameters: Ivan, REGULAR, 25000.0, 
+
+
+[2025-11-08 22:37:20] INFO: User: Manager action: createEmployee parameters: Ivan, REGULAR, 25000.0, 
+
+
+[2025-11-08 22:54:13] INFO: User: Manager action: createEmployee parameters: Ivan, REGULAR, 25000.0, 
+
+
+[2025-11-08 23:05:23] INFO: User: Manager action: createEmployee parameters: Ivan, REGULAR, 25000.0, 
+
+
+[2025-11-08 23:13:03] INFO: User: Manager action: createEmployee parameters: Ivan, REGULAR, 25000.0, 
+
+
+[2025-11-08 23:16:37] INFO: User: Manager action: createEmployee parameters: Ivan, REGULAR, 25000.0, 
+
+
+[2025-11-08 23:18:08] INFO: User: Manager action: createEmployee parameters: Ivan, REGULAR, 25000.0, 
+
+
+[2025-11-08 23:21:21] INFO: User: Manager action: createEmployee parameters: Ivan, REGULAR, 25000.0, 
+
+
+[2025-11-08 23:23:01] INFO: User: Manager action: createEmployee parameters: Ivan, REGULAR, 25000.0, 
+
+
+
+[2025-11-08 23:26:53] INFO: User: Manager action: createEmployee parameters: Ivan, REGULAR, 25000.0, 
+
+
+
+[2025-11-08 23:30:45] INFO: User: Manager action: createEmployee parameters: Ivan, REGULAR, 25000.0, 
+
+
+
+[2025-11-08 23:40:11] INFO: User: Manager action: createEmployee parameters: Ivan, REGULAR, 25000.0, 
+
+
+
+[2025-11-08 23:49:55] INFO: User: Manager action: createEmployee parameters: Ivan, REGULAR, 25000.0, 
+
+
+[2025-11-08 23:50:27] INFO: User: Manager action: changeParameters early data: null changed data: null
+
+
+[2025-11-08 23:55:41] INFO: User: Manager action: createEmployee parameters: Ivan, REGULAR, 25000.0, 
+
+
+[2025-11-08 23:57:48] INFO: User: Manager action: createEmployee parameters: Ivan, REGULAR, 25000.0, 
+
+
+[2025-11-08 23:59:05] INFO: User: Manager action: createEmployee parameters: Ivan, REGULAR, 25000.0, 
+
+
+[2025-11-08 23:59:25] INFO: User: Manager action: changeParameters early data: {"id":779,"position":"MANAGER","salary":25000.0,"name":"Ivan"} changed data: {"id":779,"position":"MANAGER","salary":25000.0,"name":"Ivan"}
+
+
+[2025-11-09 00:10:04] INFO: User: Manager action: createEmployee parameters: Ivan, REGULAR, 25000.0, 
+
+
+[2025-11-09 00:11:07] INFO: User: Manager action: changeParameters early data: {"id":379,"position":"MANAGER","salary":25000.0,"name":"Ivan"} changed data: {"id":379,"position":"MANAGER","salary":25000.0,"name":"Ivan"}
+
+
+[2025-11-09 00:16:43] INFO: User: Manager action: createEmployee parameters: Ivan, REGULAR, 25000.0, 
+
+
+[2025-11-09 00:17:04] INFO: User: Manager action: changeParameters early data: {"id":719,"position":"REGULAR","salary":25000.0,"name":"Ivan"} changed data: {"id":719,"position":"MANAGER","salary":25000.0,"name":"Ivan"}
+
+
+[2025-11-09 00:18:55] INFO: User: HR action: createEmployee parameters: Ivan, REGULAR, 25000.0, 
+
+
+[2025-11-09 00:19:23] INFO: User: HR action: changeParameters early data: {"id":802,"position":"REGULAR","salary":25000.0,"name":"Ivan"} changed data: {"id":802,"position":"REGULAR","salary":30000.0,"name":"Ivan"}
+
+
+[2025-11-09 00:20:25] INFO: User: Manager action: changeParameters early data: {"id":802,"position":"REGULAR","salary":30000.0,"name":"Ivan"} changed data: {"id":802,"position":"MANAGER","salary":30000.0,"name":"Ivan"}
+
+
+[2025-11-09 00:21:09] INFO: User: Admin action: changeParameters early data: {"id":802,"position":"MANAGER","salary":30000.0,"name":"Ivan"} changed data: {"id":802,"position":"MANAGER","salary":30000.0,"name":"Ilya"}
+
+
+[2025-11-09 00:23:07] INFO: User: HR action: createEmployee parameters: Ivan, REGULAR, 25000.0, 
+
+
+[2025-11-09 00:23:37] INFO: User: HR action: changeParameters early data: {"id":769,"position":"REGULAR","salary":25000.0,"name":"Ivan"} changed data: {"id":769,"position":"REGULAR","salary":30000.0,"name":"Ivan"}
+
+
+[2025-11-09 00:27:50] INFO: User: HR action: createEmployee parameters: Ivan, REGULAR, 20000.0, 
+
+
+
+[2025-11-09 00:29:57] INFO: User: HR action: createEmployee parameters: Ivan, REGULAR, 20.0, 
+
+
+[2025-11-09 00:30:33] INFO: User: HR action: changeParameters early data: {"id":851,"position":"REGULAR","salary":20.0,"name":"Ivan"} changed data: {"id":851,"position":"REGULAR","salary":30000.0,"name":"Ivan"}
+
+[2025-11-09 00:33:13] INFO: Create employee user was validated
+
+[2025-11-09 00:33:13] INFO: User: HR action: createEmployee parameters: Ivan, REGULAR, 25000.0, 
+
+[2025-11-09 00:33:22] INFO: Update salary user was validated
+
+[2025-11-09 00:33:34] INFO: User: HR action: changeParameters early data: {"id":637,"position":"REGULAR","salary":25000.0,"name":"Ivan"} changed data: {"id":637,"position":"REGULAR","salary":30000.0,"name":"Ivan"}
+
+[2025-11-09 00:35:17] INFO: Create employee user was validated
+
+[2025-11-09 00:35:17] INFO: User: HR action: createEmployee parameters: Ivan, REGULAR, 20000.0, 
+
+[2025-11-09 00:35:27] INFO: Update salary user was validated
+
+[2025-11-09 00:35:33] INFO: User: HR action: changeParameters early data: {"id":315,"position":"REGULAR","salary":20000.0,"name":"Ivan"} changed data: {"id":315,"position":"REGULAR","salary":30000.0,"name":"Ivan"}
+
+[2025-11-09 00:35:54] INFO: Change position user was validated
+
+[2025-11-09 00:36:00] INFO: User: Manager action: changeParameters early data: {"id":315,"position":"REGULAR","salary":30000.0,"name":"Ivan"} changed data: {"id":315,"position":"MANAGER","salary":30000.0,"name":"Ivan"}
+
+[2025-11-09 00:36:18] INFO: Change name use was validated
+
+[2025-11-09 00:36:22] INFO: User: Admin action: changeParameters early data: {"id":315,"position":"MANAGER","salary":30000.0,"name":"Ivan"} changed data: {"id":315,"position":"MANAGER","salary":30000.0,"name":"Ilya"}
+
+[2025-11-09 00:40:15] INFO: Create employee user was validated
+
+[2025-11-09 00:40:15] INFO: User: HR action: createEmployee parameters: Ivan, REGULAR, 25000.0, 
+
+[2025-11-09 00:48:56] INFO: Create employee user was validated
+
+[2025-11-09 00:48:56] INFO: User: HR action: createEmployee parameters: Ivan, REGULAR, 25000.0, 
+
+[2025-11-09 00:57:56] INFO: Create employee user was validated
+
+[2025-11-09 00:57:56] INFO: User: HR action: createEmployee parameters: Ivan, REGULAR, 25000.0, 
+
+[2025-11-09 01:04:39] INFO: Create employee user was validated
+
+[2025-11-09 01:04:39] INFO: User: HR action: createEmployee parameters: Ivan, REGULAR, 25000.0, 
+
+[2025-11-09 01:13:26] INFO: Create employee user was validated
+
+[2025-11-09 01:13:26] INFO: Name was validated
+
+[2025-11-09 01:13:26] INFO: User: HR action: createEmployee parameters: Ivan, REGULAR, 25000.0, 
+
+[2025-11-09 01:15:11] INFO: Create employee user was validated
+
+[2025-11-09 01:15:11] INFO: Name was validated
+
+[2025-11-09 01:15:11] INFO: Salary was validated
+
+[2025-11-09 01:15:11] INFO: User: HR action: createEmployee parameters: Ivan, REGULAR, 25000.0, 
+
+[2025-11-09 01:15:26] INFO: Create employee user was validated
+
+[2025-11-09 01:15:26] INFO: Name was validated
+
+[2025-11-09 01:15:26] INFO: Salary was validated
+
+[2025-11-09 01:15:26] INFO: User: HR action: createEmployee parameters: Ilya, REGULAR, 30000.0, 
+
+[2025-11-09 01:15:41] INFO: Create employee user was validated
+
+[2025-11-09 01:15:41] INFO: Name was validated
+
+[2025-11-09 01:15:41] INFO: Salary was validated
+
+[2025-11-09 01:15:41] INFO: User: HR action: createEmployee parameters: Alice, REGULAR, 30000.0, 
+
+[2025-11-09 01:16:42] INFO: Update salary user was validated
+
+[2025-11-09 01:16:56] INFO: User: HR action: changeParameters early data: {"id":590,"position":"REGULAR","salary":30000.0,"name":"Ilya"} changed data: {"id":590,"position":"REGULAR","salary":35000.0,"name":"Ilya"}
+
+[2025-11-09 01:17:20] INFO: Change position user was validated
+
+[2025-11-09 01:17:32] INFO: User: Manager action: changeParameters early data: {"id":301,"position":"REGULAR","salary":30000.0,"name":"Alice"} changed data: {"id":301,"position":"ADMIN","salary":30000.0,"name":"Alice"}
+
+[2025-11-09 01:18:09] INFO: User: Manager action: employeeInfo parameters: [0, REGULAR, Ilya, 0.0]
+
+[2025-11-09 01:19:10] INFO: Deleted employee user was validated
+
+[2025-11-09 01:19:10] INFO: User: Admin action: deleteEmployee data user: {"id":421,"position":"REGULAR","salary":25000.0,"name":"Ivan"}
+
+[2025-11-09 01:19:47] INFO: User: Admin action: createEmployee parameters: Ivan, REGULAR, 25000.0, 
+
+[2025-11-09 01:23:59] INFO: Create employee user was validated
+
+[2025-11-09 01:23:59] INFO: Name was validated
+
+[2025-11-09 01:23:59] INFO: Salary was validated
+
+[2025-11-09 01:23:59] INFO: User: HR action: createEmployee parameters: Ivan, NOFOUND, 25000.0, 
+
+[2025-11-09 01:24:13] INFO: Create employee user was validated
+
+[2025-11-09 01:24:13] INFO: Name was validated
+
+[2025-11-09 01:24:13] INFO: Salary was validated
+
+[2025-11-09 01:24:13] INFO: User: HR action: createEmployee parameters: Ilya, NOFOUND, 30000.0, 
+
+[2025-11-09 01:24:30] INFO: User: HR action: employeeInfo parameters: [0, NOFOUND, Ilya, 0.0]
+
+[2025-11-09 01:31:16] INFO: Create employee user was validated
+
+[2025-11-09 01:31:16] INFO: Name was validated
+
+[2025-11-09 01:31:16] INFO: Salary was validated
+
+[2025-11-09 01:32:33] INFO: Create employee user was validated
+
+[2025-11-09 01:32:33] INFO: Name was validated
+
+[2025-11-09 01:32:33] INFO: Salary was validated
+
+[2025-11-09 01:32:33] INFO: User: HR action: createEmployee parameters: Ivan, REGULAR, 25000.0, 
+
+[2025-11-09 01:32:46] INFO: Create employee user was validated
+
+[2025-11-09 01:32:46] INFO: Name was validated
+
+[2025-11-09 01:32:46] INFO: Salary was validated
+
+[2025-11-09 01:32:46] INFO: User: HR action: createEmployee parameters: Ilya, REGULAR, 30000.0, 
+
+[2025-11-09 01:33:00] INFO: User: HR action: employeeInfo parameters: [0, null, Ilya, 0.0]
+
+[2025-11-09 01:35:14] INFO: Create employee user was validated
+
+[2025-11-09 01:35:14] INFO: Name was validated
+
+[2025-11-09 01:35:14] INFO: Salary was validated
+
+[2025-11-09 01:35:14] INFO: User: HR action: createEmployee parameters: Ivan, REGULAR, 25000.0, 
+
+[2025-11-09 01:35:28] INFO: Create employee user was validated
+
+[2025-11-09 01:35:28] INFO: Name was validated
+
+[2025-11-09 01:35:28] INFO: Salary was validated
+
+[2025-11-09 01:35:28] INFO: User: HR action: createEmployee parameters: Ilya, None, 30000.0, 
+
+[2025-11-09 01:35:41] INFO: User: HR action: employeeInfo parameters: [0, None, Ilya, 0.0]
+
+[2025-11-09 01:42:21] INFO: Create employee user was validated
+
+[2025-11-09 01:42:21] INFO: Name was validated
+
+[2025-11-09 01:42:21] INFO: Salary was validated
+
+[2025-11-09 01:42:21] INFO: User: HR action: createEmployee parameters: Ilya, REGULAR, 30000.0, 
+
+[2025-11-09 01:42:36] INFO: User: HR action: employeeInfo parameters: [0, None, Ilya, 0.0]
+
+[2025-11-09 01:43:03] INFO: Create employee user was validated
+
+[2025-11-09 01:43:03] INFO: Name was validated
+
+[2025-11-09 01:43:03] INFO: Salary was validated
+
+[2025-11-09 01:43:03] INFO: User: HR action: createEmployee parameters: Ivan, REGULAR, 25000.0, 
+
+[2025-11-09 01:43:15] INFO: User: HR action: employeeInfo parameters: [0, None, Ilya, 0.0]
+
+[2025-11-09 01:43:39] INFO: Create employee user was validated
+
+[2025-11-09 01:43:39] INFO: Name was validated
+
+[2025-11-09 01:43:39] INFO: Salary was validated
+
+[2025-11-09 01:43:39] INFO: User: HR action: createEmployee parameters: Alice, ADMIN, 40000.0, 
+
+[2025-11-09 01:43:52] INFO: User: HR action: employeeInfo parameters: [0, None, Ivan, 0.0]
+
+[2025-11-11 23:20:59] INFO: Create employee user was validated
+
+[2025-11-11 23:20:59] INFO: Name was validated
+
+[2025-11-11 23:20:59] INFO: Salary was validated
+
+[2025-11-11 23:20:59] INFO: User: HR action: createEmployee parameters: Alice, REGULAR, 25000.0, 
+
+[2025-11-11 23:26:14] INFO: Change position user was validated
+
+[2025-11-11 23:26:21] INFO: User: Manager action: changeParameters early data: {"id":326,"position":"REGULAR","salary":25000.0,"name":"Alice"} changed data: {"id":326,"position":"ADMIN","salary":25000.0,"name":"Alice"}
+
+[2025-11-11 23:27:02] INFO: Create employee user was validated
+
+[2025-11-11 23:27:02] INFO: Name was validated
+
+[2025-11-11 23:27:02] INFO: Salary was validated
+
+[2025-11-11 23:27:02] INFO: User: Manager action: createEmployee parameters: Ilya, REGULAR, 25000.0, 
+
+[2025-11-11 23:27:37] INFO: Update salary user was validated
+
+[2025-11-11 23:27:50] INFO: User: HR action: changeParameters early data: {"id":326,"position":"ADMIN","salary":25000.0,"name":"Alice"} changed data: {"id":326,"position":"ADMIN","salary":35000.0,"name":"Alice"}
+
+[2025-11-11 23:28:38] INFO: Create employee user was validated
+
+[2025-11-11 23:28:38] INFO: Name was validated
+
+[2025-11-11 23:28:38] INFO: Salary was validated
+
+[2025-11-11 23:28:38] INFO: User: HR action: createEmployee parameters: Phillipe, REGULAR, 25000.0, 
+
+[2025-11-11 23:28:58] INFO: User: HR action: employeeInfo parameters: [0, None, Ilya, 0.0]
+
+[2025-11-11 23:29:42] INFO: Deleted employee user was validated
+
+[2025-11-11 23:29:42] INFO: User: Admin action: deleteEmployee data user: {"id":371,"position":"REGULAR","salary":25000.0,"name":"Phillipe"}
+
+[2025-11-11 23:37:51] INFO: Create employee user was validated
+
+[2025-11-11 23:37:51] INFO: Name was validated
+
+[2025-11-11 23:37:51] INFO: Salary was validated
+
+[2025-11-11 23:37:51] INFO: User: Manager action: createEmployee parameters: Ilya Maximov, REGULAR, 25000.0, 
+
+[2025-11-11 23:38:12] INFO: Change position user was validated
+
+[2025-11-11 23:38:23] INFO: User: Manager action: changeParameters early data: {"id":417,"position":"REGULAR","salary":25000.0,"name":"Ilya Maximov"} changed data: {"id":417,"position":"ADMIN","salary":25000.0,"name":"Ilya Maximov"}
+
+[2025-11-11 23:38:47] INFO: Update salary user was validated
+
+[2025-11-11 23:38:53] INFO: User: HR action: changeParameters early data: {"id":417,"position":"ADMIN","salary":25000.0,"name":"Ilya Maximov"} changed data: {"id":417,"position":"ADMIN","salary":45000.0,"name":"Ilya Maximov"}
+
+[2025-11-11 23:43:02] INFO: Create employee user was validated
+
+[2025-11-11 23:43:02] INFO: Name was validated
+
+[2025-11-11 23:43:02] INFO: Salary was validated
+
+[2025-11-11 23:43:02] INFO: User: HR action: createEmployee parameters: Alice, REGULAR, 25000.0, 
+
+[2025-11-11 23:44:33] INFO: Create employee user was validated
+
+[2025-11-11 23:44:33] INFO: Name was validated
+
+[2025-11-11 23:44:33] INFO: Salary was validated
+
+[2025-11-11 23:44:33] INFO: User: Manager action: createEmployee parameters: Alice Maximova, REGULAR, 25000.0, 
+
+[2025-11-11 23:44:43] INFO: Change position user was validated
+
+[2025-11-11 23:44:49] INFO: User: Manager action: changeParameters early data: {"id":399,"position":"REGULAR","salary":25000.0,"name":"Alice Maximova"} changed data: {"id":399,"position":"ADMIN","salary":25000.0,"name":"Alice Maximova"}
+
+[2025-11-11 23:45:05] INFO: Update salary user was validated
+
+[2025-11-11 23:45:09] INFO: User: HR action: changeParameters early data: {"id":399,"position":"ADMIN","salary":25000.0,"name":"Alice Maximova"} changed data: {"id":399,"position":"ADMIN","salary":35000.0,"name":"Alice Maximova"}
+
+[2025-11-11 23:45:57] INFO: Change name use was validated
+
+[2025-11-11 23:46:13] INFO: User: Admin action: changeParameters early data: {"id":399,"position":"ADMIN","salary":35000.0,"name":"Alice Maximova"} changed data: {"id":399,"position":"ADMIN","salary":35000.0,"name":"Alice Maximova"}
+
+[2025-11-11 23:48:25] INFO: Create employee user was validated
+
+[2025-11-11 23:48:25] INFO: Name was validated
+
+[2025-11-11 23:48:25] INFO: Salary was validated
+
+[2025-11-11 23:48:25] INFO: User: HR action: createEmployee parameters: AliceMaximova, ADMIN, 45000.0, 
+
+[2025-11-11 23:48:46] INFO: Change name use was validated
+
+[2025-11-11 23:48:53] INFO: User: Admin action: changeParameters early data: {"id":885,"position":"ADMIN","salary":45000.0,"name":"AliceMaximova"} changed data: {"id":885,"position":"ADMIN","salary":45000.0,"name":"Alice Maximova"}
+
